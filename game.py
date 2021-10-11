@@ -4,7 +4,7 @@ class game:
     time = 0
     primal = 0
     justice = 0
-    over = 0
+    over = 3
     name = "unknown"
     def __init__(self): 
         fire = 0
@@ -12,7 +12,7 @@ class game:
         time = 0
         primal = 0
         justice = 0
-        over = 0
+        over = 3
         name = "Unknown"
         
     def endgame(self):

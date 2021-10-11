@@ -1,0 +1,20 @@
+won,TJ,The Best Offepge
+
+won,S,
+
+won,,
+won,,
+won,,
+won,,
+won,S,
+won,TPJ,fooo
+won,FS,foo
+won,,test
+won,,
+won,P,primal fury
+won,TJ,
+won,SJ,
+won,FT,
+won,FSTPJ,
+won,FSJ,
+lost,P,kosul heroes,test
